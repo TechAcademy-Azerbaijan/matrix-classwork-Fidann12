@@ -16,4 +16,4 @@ for (i = 0; i < array_1.length; i++) {
         arr.push(element)
     }
 }
-console.log(arr);
+console.log(arr.join(" "));
